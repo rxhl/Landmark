@@ -1,4 +1,4 @@
 # Landmark
 Find great places near you. 
 
-Try it here, https://landmarkx.herokuapp.com/
+Try it at https://landmarkx.herokuapp.com/
