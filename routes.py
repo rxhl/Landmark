@@ -7,7 +7,7 @@ app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', db_local)
 db.init_app(app)
 
-app.secret_key = "development-key"
+app.secret_key = "07943d11821d591695c6232c4076b120b3d48627415a398373d9fca2aeacce4c"
 
 @app.route("/")
 def index():
