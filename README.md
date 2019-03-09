@@ -5,7 +5,7 @@ A basic Yelp-clone that displays points of interest in a given location. Built u
 
 **Note:** Due to a deployment issue with PostgreSQL on Heroku, the site is currently unavailable. You may see a demo [here](https://youtu.be/nLvF-uB40-U). Additionally, you may download the repo and run it locally on your machine.
 
-## Instructions:
+## Instructions
 
 1. Download and unzip the repo. Then install the following dependencies.
 2. ```$ pip install Flask```
